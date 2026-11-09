@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Style for the outer circle -->
+    <style name="OuterCircle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- Style for the inner circle -->
+    <style name="InnerCircle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="RoundedRectangle">
+        <item name="android:background">
+            @drawable/rounded_rectangle
+        </item>
+    </style>
+
+    <style name="RoundedRectangle2">
+        <item name="android:background">
+            @drawable/rounded_rectangle2
+        </item>
+    </style>
+    <style name="button_kembali" parent="Widget.AppCompat.Button">
+        <item name="backgroundTint">@color/grey</item>
+    </style>
+    <style name="button_lihat" parent="Widget.AppCompat.Button">
+        <item name="backgroundTint">@color/hijau_tua</item>
+    </style>
+</resources>

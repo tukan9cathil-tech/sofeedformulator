@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sign_in">#FFA183</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="grey">#808080</color>
+    <color name="selected_color">#6B9C52</color>
+    <color name="stroke_biru">#335698</color>
+    <color name="pink">#DC5A5C</color>
+    <color name="hijau_tua">#0D6E38</color>
+    <color name="hijau_muda">#40BD6B</color>
+    <color name="ungu">#6036C6</color>
+    <color name="orange">#F7853F</color>
+    <color name="mint">#25B8A8</color>
+    <color name="hijau_tua2">#268D3B</color>
+    <color name="tortoise">#0C7E72</color>
+    <color name="orange_tua">#DA6117</color>
+    <color name="hijau_tua3">#18B888</color>
+    <color name="kuning_tua">#BA9128</color>
+    <color name="hijau_tua4">#33AE73</color>
+    <color name="biru_tua">#428CB4</color>
+    <color name="hijau_muda2">#026B3F</color>
+    <color name="not_selected">#7CBC98</color>
+    <color name="merah2">#E90808</color>
+    <color name="orange2">#FF8719</color>
+    <color name="hijau_baik">#1F9B00</color>
+    <color name="hijau_judul">#5DD993</color>
+    <color name="hijau_container">#61AC81</color>
+    <color name="hijau_kecil">#B5E4CA</color>
+    <color name="hijau_gelap">#03291F</color>
+
+
+
+
+</resources>
